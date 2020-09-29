@@ -1,0 +1,4 @@
+/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/obj/Debug/netcoreapp3.1/TodoIt.csprojAssemblyReference.cache
+/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/obj/Debug/netcoreapp3.1/TodoIt.AssemblyInfoInputs.cache
+/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/obj/Debug/netcoreapp3.1/TodoIt.AssemblyInfo.cs
+/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/obj/Debug/netcoreapp3.1/TodoIt.csproj.CoreCompileInputs.cache
