@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt.csproj": {}
+    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt/TodoIt.csproj": {}
   },
   "projects": {
-    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt.csproj": {
+    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt/TodoIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt.csproj",
+        "projectUniqueName": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt/TodoIt.csproj",
         "projectName": "TodoIt",
-        "projectPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt.csproj",
+        "projectPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt/TodoIt.csproj",
         "packagesPath": "/Users/konrad/.nuget/packages/",
-        "outputPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/obj/",
+        "outputPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/konrad/.nuget/NuGet/NuGet.Config"
@@ -35,24 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[1.2.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

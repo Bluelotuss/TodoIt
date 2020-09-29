@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iV5dcELOyOU6zYWPoFB6J6Apn9DitLm9l4tlPErF32hcXa3EtCE0LSN5von9kTjDgTiagaskPDlJ4IKZABfEA==",
+  "dgSpecHash": "rmyZ3iSlAUSBZIWKKb2xdWa/LC6rv/ctI4geXl0WT+HEELQHJykG/bvb2IgC6PZY+CIRqygNj8cqE5suE7y+5A==",
   "success": true,
-  "projectFilePath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt.csproj",
+  "projectFilePath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/konrad/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/konrad/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

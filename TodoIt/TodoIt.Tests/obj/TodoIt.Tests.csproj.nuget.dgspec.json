@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/Model.Tests/Model.Tests.csproj": {}
+    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj": {}
   },
   "projects": {
-    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/Model.Tests/Model.Tests.csproj": {
+    "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/Model.Tests/Model.Tests.csproj",
-        "projectName": "Model.Tests",
-        "projectPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/Model.Tests/Model.Tests.csproj",
+        "projectUniqueName": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj",
+        "projectName": "TodoIt.Tests",
+        "projectPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj",
         "packagesPath": "/Users/konrad/.nuget/packages/",
-        "outputPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/Model.Tests/obj/",
+        "outputPath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/konrad/.nuget/NuGet/NuGet.Config"
