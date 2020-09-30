@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rmyZ3iSlAUSBZIWKKb2xdWa/LC6rv/ctI4geXl0WT+HEELQHJykG/bvb2IgC6PZY+CIRqygNj8cqE5suE7y+5A==",
+  "dgSpecHash": "vn9e5LCGvDY2Z7o/MxCpAnRkITZr7NqWt162ad24QonTKdz53QfTSjESSvQlXWMZ4QE9iGOtv21sSJwBu4eQGw==",
   "success": true,
   "projectFilePath": "/Users/konrad/Documents/vs-projects/c-sharp/TodoIt/TodoIt/TodoIt.Tests/TodoIt.Tests.csproj",
   "expectedPackageFiles": [
